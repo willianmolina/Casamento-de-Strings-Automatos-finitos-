@@ -1,4 +1,4 @@
-# Casamento de Strings
+# Casamento de Strings utilizando o conceito de Autômatos Finitos
 1. _**Descrição do Trabalho**_
 
 A implementação dos Algoritmos foi feita apartir da Linguagem de Programação C, utilizando a IDE Code::Blocks. E tem como parte na aprovação da disciplina de Teoria da Computação do Curso de Ciências da Computação, na Universidade Estadual do Norte do Paraná (UENP).
