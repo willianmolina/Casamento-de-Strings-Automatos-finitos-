@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1530322044 source:c:\users\usuario02\documents\trabcontains\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1530388572 source:c:\users\usuario02\documents\trabcontains(correto)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
